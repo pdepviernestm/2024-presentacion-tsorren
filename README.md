@@ -1,10 +1,16 @@
-# presentacion-
+# Tadeo Sorrentino
+##### Hola, soy Tade! Tengo 20 años y vivo en Bella Vista.
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+## Mis hobbies son:
+  - Tocar la guitarra.
+  - Escuchar música.
+  - Ir a fiestas o conciertos de rock y pop punk.
+  - Programar.
+  - Ir al gimnasio.
+  - Leer filosofía.
+  Mi pelicula favorita es Interstellar.
 
-Ya saben usar git!
+## Bandas favoritas:
+|My Chemical Romance|Shpongle|Gojira|
+|----|----|----|
+|![](mcr.png)|![](shpongle.png)|![](gojira.png)
