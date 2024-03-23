@@ -13,4 +13,4 @@
 ## Bandas favoritas:
 |My Chemical Romance|Shpongle|Gojira|
 |----|----|----|
-|![](mcr.png)|![](shpongle.png)|![](gojira.png)
+|![](mcr.jpg)|![](shpongle.jpeg)|![](gojira.jpg)
