@@ -8,8 +8,7 @@
   - Programar.
   - Ir al gimnasio.
   - Leer filosofía.
-
-Mi pelicula favorita es Interstellar.
+  - Mi pelicula favorita es Interstellar.
 
 ### Bandas favoritas:
 |My Chemical Romance|Shpongle|Gojira|
